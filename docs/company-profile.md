@@ -1,42 +1,46 @@
-# **Company Profile**
+# Contoso Studios
 
+## Industry
 
+Game Development
 
-### **Company Name**
+---
 
-#### Contoso Studios
+## Employees
 
+25
 
+---
 
-### **Industry**
+## Departments
 
-#### Game Development
+- IT
+- HR
+- Finance
+- Marketing
+- Sales
+- Development
 
+---
 
+## Microsoft 365 Plan
 
-### **Employees**
+Business Premium Trial
 
-#### 25
+---
 
+## Tenant Name
 
+contosostudios.onmicrosoft.com
 
-### **Departments**
+---
 
-* #### IT
-* #### HR
-* #### Finance 
-* #### Marketing
-* #### Sales
-* #### Development
+## Primary Administrator
 
-#### 
+admin@contosostudios.onmicrosoft.com
 
-### **Manager Accounts**
+---
 
-* #### IT Manager
-* #### HR Manager
-* Finance Manager
+## Date Created
 
-
-  ---
-
+2026-07-23
