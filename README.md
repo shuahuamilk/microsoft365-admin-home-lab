@@ -34,7 +34,7 @@ Portfolio project for Microsoft 365 Administration.
 
 ## Modules Completed
 
-* \[x] Module 00 Tenant Setup
+* \[ ] Module 00 Tenant Setup
 * \[ ] Module 01 User Management
 * \[ ] Module 02 Password Management
 * \[ ] Module 03 License Management
